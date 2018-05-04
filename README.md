@@ -6,6 +6,8 @@ In an effort to respect the challenge owners' authors, and their hiring process,
 avoid any risk of exposing sensitive API keys and secrets, the code is in a private repo with my own API keys and secrets swapped in. 
 I'm keeping  my code as reference for implementation in other apps I want to build in the future.
 
+* [YOU CAN TRY IT OUT HERE: DEMO]https://textmemusic.herokuapp.com/
+
 I feel compelled to share all the lessons learned for others to be brave and take the dive into both of thes fun APIs
 
 While buidling this out, I stumbled quite a bit, but I learn lot! ..and... it was so much fun to build! 
